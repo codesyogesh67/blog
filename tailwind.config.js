@@ -15,7 +15,6 @@ module.exports = {
         lightgrey: "#F4F4F4",
         lavender: "#F4F0F8",
         lightyellow: "#FBF6EA"
-
       }
     },
   },
